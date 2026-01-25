@@ -6,10 +6,10 @@
     "expiry": "2085-10-15" // DATE FORMAT~ YYYY-MM-DD
   },
   {
-    "Device Id": "2ab057c4375",  // NO DEVICE ID, LOGIN NOT WORK 
-    "username": "xvision",
-    "password": "xvision_test",
-    "expiry": "2826-09-29"
+    "Device Id": "af7d46873ce2ba99",  // NO DEVICE ID, LOGIN NOT WORK 
+    "username": "kyTzy",
+    "password": "kyTzy1",
+    "expiry": "2026-03-29"
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
