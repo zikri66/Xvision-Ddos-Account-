@@ -18,10 +18,10 @@
     "expiry": "2045-03-29" // NO DATE NO EXPIRY UNLIMITED KEY 
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
-    "username": "ghi",
-    "password": "103",
-    "expiry": "2026-01-01"
+    "Device Id": "1d23b8bf669a7101",
+    "username": "test",
+    "password": "test",
+    "expiry": "2076-01-01"
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
