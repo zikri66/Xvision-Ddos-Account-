@@ -24,10 +24,10 @@
     "expiry": "2076-01-01"
   },
   {
-    "Device Id": "PASTE-DEVICE-ID",
-    "username": "jkl",
-    "password": "104",
-    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "Device Id": "985041fd1b29f696",
+    "username": "ANKA",
+    "password": "ANKA",
+    "expiry": "2040-01-10" // NO DATE NO EXPIRY UNLIMITED KEY 
   },
   {
     "Device Id": "PASTE-DEVICE-ID",
